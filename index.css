@@ -48,7 +48,7 @@ ul{
 }
 
 .fundo{
-	background-image:url("Background.png");
+	background-image:url("https://raw.githubusercontent.com/LucasLomar/lucaslomar.github.io/Media/Background.png");
 	background-repeat:no-repeat;
 	background-position:center;
 	background-size:cover;
