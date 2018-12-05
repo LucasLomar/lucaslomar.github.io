@@ -17,6 +17,19 @@ body{
 
 ul{
 	list-style-type:none;
+	padding-right:50px;
+	padding-left:50px;
+	}
+li{
+	border-style:none;
+	border-color:black;
+	padding-left:10px;
+	padding-right:10px;
+	text-align:center;
+
+}
+ul li{
+	display:inline;
 }
 
 
