@@ -12,8 +12,36 @@ body{
 
 ul{
 	list-style-type:none;
+	padding-right:50px;
+	padding-left:50px;
+	}
+li{
+	border-style:none;
+	border-color:black;
+	padding-left:10px;
+	padding-right:10px;
+	text-align:center;
+
+}
+ul li{
+	display:inline;
+	
 }
 
+.menu{
+
+	border-style:solid;
+	border-color:black;
+	
+	background-color:gray;
+	
+	margin-left:200px;
+	margin-right:200px;
+	font-size:20px;
+	font-family:Impact;
+	color:white;
+	text-align:center;
+}
 
 .cabecalho /*Propriedades do Cabeçalho da pagina*/
 {
