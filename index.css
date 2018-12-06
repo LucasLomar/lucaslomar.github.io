@@ -15,12 +15,12 @@ body{
 	width:100%;
 }
 
-ul{
+menu ul{
 	list-style-type:none;
 	padding-right:50px;
 	padding-left:50px;
 	}
-li{
+menu li{
 	border-style:none;
 	border-color:black;
 	padding-left:10px;
@@ -28,9 +28,11 @@ li{
 	text-align:center;
 
 }
-ul li{
+menu ul li{
 	display:inline;
-	
+}
+menu img{
+	position: relative;
 }
 
 .cabecalho /*Propriedades do Cabeçalho da pagina*/
