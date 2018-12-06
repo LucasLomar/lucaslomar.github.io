@@ -19,8 +19,9 @@ body{
 .menu ul li{
 	list-style-type:none;
 	display:inline;
+	position:relative;
 	
-	padding-right:10%px;
+	padding-right:10%;
 	padding-left:10%;
 }
 
