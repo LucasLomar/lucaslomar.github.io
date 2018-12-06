@@ -186,13 +186,15 @@ body{
 {	
 	background-color:none;
 	
-	position:relative;
-	
 	padding-top:2%;
 	padding-bottom:2%;
 	padding-right:5%;
 	padding-left:5%;
 	
+}
+
+.tabmenu td{
+	position:relative;
 }
 
 .tabela00{		/* TABELA DO TITULO 00*/
