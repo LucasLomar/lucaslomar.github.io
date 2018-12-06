@@ -183,18 +183,12 @@ body{
 /*CONFIGURAÇÕES DAS TABELAS*/
 
 .tabmenu
-{	
-	background-color:none;
-	
-	padding-top:2%;
-	padding-bottom:2%;
-	padding-right:5%;
-	padding-left:5%;
-	
-}
-
-.tabmenu tr{
+{		
 	position:relative;
+	padding-top:5%;
+	padding-right:5%;
+	padding-left:10%;
+	
 }
 
 .tabela00{		/* TABELA DO TITULO 00*/
