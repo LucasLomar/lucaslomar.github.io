@@ -15,10 +15,12 @@ body{
 	width:100%;
 }
 
+/*===========================================================================================================*/
 menu ul{
 	list-style-type:none;
-	padding-right:50px;
-	padding-left:50px;
+	
+	padding-right:10%px;
+	padding-left:10%;
 }
 
 menu img{
@@ -27,9 +29,16 @@ menu img{
 	width:70%;	
 }
 
+menu li {
+	padding-right:10%;
+	padding-left:10%;
+}
+
 menu ul li{
 	display:inline;
 }
+
+/*====================================================================================================================*/
 
 
 .cabecalho /*Propriedades do Cabeçalho da pagina*/
