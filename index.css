@@ -16,36 +16,22 @@ body{
 }
 
 ul{
-	border-top-style:solid;
-	border-bottom-style:solid;
-	border-top-color: white;
-	border-bottom-color:white;
 	list-style-type:none;
-	padding-top:3%;
-	padding-bottom:3%;
-	padding-right:5%;
-	padding-left:5%;
+	padding-right:50px;
+	padding-left:50px;
 	}
 li{
-	
 	border-style:none;
 	border-color:black;
-	padding-left:10%;
-	padding-right:10%;
-	padding-bottom:3%;
-	padding-top:3%;
-	
-	font-size:20px;
-	font-family:Impact;
-	color:white;
+	padding-left:10px;
+	padding-right:10px;
 	text-align:center;
 
 }
 ul li{
-	position:relative;
 	display:inline;
+	
 }
-
 
 .cabecalho /*Propriedades do Cabeçalho da pagina*/
 {
@@ -57,6 +43,7 @@ ul li{
 	border-left-color:#000000;
 	border-right-color:#000000;
 }
+
 .cabecalho img{
 	position:relative;
 	height:100%;
