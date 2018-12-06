@@ -16,7 +16,7 @@ body{
 }
 
 /*===========================================================================================================*/
-menu ul li{
+.menu ul li{
 	list-style-type:none;
 	display:inline;
 	
@@ -24,13 +24,13 @@ menu ul li{
 	padding-left:10%;
 }
 
-menu img{
+.menu img{
 	position: relative;
 	height:70%;
 	width:70%;	
 }
 
-menu li {
+.menu li {
 	padding-right:10%;
 	padding-left:10%;
 }
