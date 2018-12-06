@@ -17,8 +17,8 @@ body{
 
 ul{
 	list-style-type:none;
-	padding-right:10%;
-	padding-left:10%;
+	/*padding-right:10%;
+	padding-left:10%;*/
 	}
 li{
 	border-style:none;
