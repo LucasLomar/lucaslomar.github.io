@@ -19,6 +19,7 @@ body{
 .menu ul li{
 	list-style-type:none;
 	display:inline;
+	
 	position:relative;
 	
 	padding-right:10%;
@@ -26,9 +27,8 @@ body{
 }
 
 .menu img{
-	position: relative;
-	height:30%;
-	width:30%;	
+	height:20%;
+	width:20%;	
 }
 
 .menu li {
