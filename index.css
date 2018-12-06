@@ -34,7 +34,9 @@ menu ul li{
 menu img{
 	position: relative;
 }
-
+ul li img{
+	position:relativa;
+}
 .cabecalho /*Propriedades do Cabeçalho da pagina*/
 {
 	margin-left:10%;
