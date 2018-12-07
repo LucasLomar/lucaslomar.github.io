@@ -162,6 +162,12 @@ body{
 	padding-bottom:0%;
 }
 
+tablinha img{
+	position:relative;
+	hight:100%;
+	widht:100%;
+}
+
 .tabela00{		/* TABELA DO TITULO 00*/
 	position:relative;
 	padding-top:10%;
