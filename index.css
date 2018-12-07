@@ -96,6 +96,13 @@ body{
 	width:70%;
 }
 
+/* AJUSTES DE TAMANHO E POSIÇÃO DAS IMAGENS DOS BOTOES DO MENU*/
+
+.imgbotao00 img{
+	height:100%;
+	width:100%;
+}
+
 /* AJUSTES DE TAMANHO E POSIÇÃO DAS IMAGENS DA TABELA 01*/
 
 .imglink00 img{
