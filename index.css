@@ -17,8 +17,7 @@ body{
 
 /*===========================================================================================================*/
 
-.tabmenu table{
-	position:relative;
+.tabmenu{
 	padding-top:3%;
 	padding-right:2%;
 	padding-left:2%;
