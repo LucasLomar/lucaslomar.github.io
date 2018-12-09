@@ -45,7 +45,7 @@ body{
 }
 
 .tabmenu tr{
-	border-style-type: solid;
+	border-style: solid;
 	border-color:black;
 }
 
