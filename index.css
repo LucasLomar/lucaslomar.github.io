@@ -44,7 +44,7 @@ body{
 	padding-bottom:0%;
 }
 
-.tabmenu tr{
+.tabmenu table{
 	border-style: solid;
 	border-color:black;
 }
