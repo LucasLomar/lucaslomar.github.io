@@ -42,12 +42,11 @@ body{
 	padding-right:5%;
 	padding-left:3%;
 	padding-bottom:0%;
-}
-
-.tabmenu table{
-	border-style: solid;
+	
+	border-style:solid;
 	border-color:black;
 }
+
 
 /*====================================================================================================================*/
 
