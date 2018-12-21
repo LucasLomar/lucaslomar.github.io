@@ -33,7 +33,7 @@ body{
 
 /*===========================================================================================================*/
 
-.tabmenu{		/* BARRA DE NAVEGACAO*/
+tabmenu{		/* BARRA DE NAVEGACAO*/
 	position:relative;
 	
 	padding-top:0%;
@@ -49,6 +49,7 @@ body{
 	border-bottom-color:black;
 	border-top-color:black;
 }
+
 
 .imgbotao{
 	padding-top:0%;
