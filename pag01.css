@@ -100,122 +100,17 @@ body{
 
 /* CONFIGURAÇÕES DOS ELEMENTOS DA PAGINA */
 
-.titulo00{
-	padding-bottom:0%;
-	
-}
-
-.titulo00 img{
-	height:70%;
-	width:70%;
-}
-
-/* AJUSTES DE TAMANHO E POSIÇÃO DAS IMAGENS DOS BOTOES DO MENU*/
-
-.imgbotao img{
-	height:100%;
-	width:100%;
-}
-
-/* AJUSTES DE TAMANHO E POSIÇÃO DAS IMAGENS DA TABELA 01*/
-
-.imglink00 img{
-	
-	
-	height:70%;
-	width:70%;
-	
-}
-
-.imglink01 img{
-	
-	
-	
-	height:70%;
-	width:70%;
-	
-	}
-
-.imglink02 img{
-	
-	
-	height:70%;
-	width:70%;
-	
-}
-
-.imglink03 img{
-	
-	height:70%;
-	width:70%;
-}
-
-.imglink04 img{
-	
-	height:70%;
-	width:70%;
-}
-
-.imglink05 img{
-	
-	height:70%;
-	width:70%;
-}
-
-/*CONFIGURAÇÕES DAS TABELAS*/
-
-.tablinha{		/* TABELA DO TITULO 00*/
+.tabDesc{
 	position:relative;
-	padding-top:0%;
-	padding-right:2%%;
-	padding-left:2%%;
-	padding-bottom:0%;
+	paddind-left: 10%;
+	paddind-right: 10%;
 }
 
-tablinha img{
-	position:relative;
-	hight:100%;
-	widht:100%;
+.fotocapa img{
+	height:50%;
+	width:50%;
 }
-
-.tabela00{		/* TABELA DO TITULO 00*/
-	position:relative;
-	padding-top:10%;
-	padding-right:10%;
-	padding-left:10%;
-}
-
-.tabela01{		/* TABELA DAS CATEGORIAS - LINHA 01*/
-	position:relative;
-	padding-top:5%;
-	padding-right:5%;
-	padding-left:10%;
-}
-
-.tabela02{		/* TABELA DAS CATEGORIAS - LINHA 02*/
-	position:relative;
-	padding-top:5%;
-	padding-right:5%;
-	padding-left:10%;
-}
-
-.tabela03{		/* TABELA DO TITULO 01*/
-	position:relative;
-	padding-top:10%;
-	padding-right:10%;
-	padding-left:10%;
-}
-
-.tabela04{		/* TABELA DAS SUGESTÕES DE LEITURA*/
-	position:relative;
-	padding-top:5%;
-	padding-right:5%;
-	padding-left:10%;
-}
-
-.tabela05{		/* TABELA DO TITULO 02*/
-	position:relative;
-	padding-top:10%;
-	padding-right:10%;
-	padding-left:30%;
+.detalhes img{
+	height:50%;
+	width:50%;
 }
