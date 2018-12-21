@@ -102,8 +102,8 @@ body{
 
 .tabDesc{
 	position:relative;
-	paddind-left: 10%;
-	paddind-right: 10%;
+	paddind-left: 500%;
+	paddind-right: 50%;
 	padding-bottom: 5%;
 	padding-top: 5%;
 }
@@ -113,6 +113,6 @@ body{
 	width:50%;
 }
 .detalhes img{
-	height:70%;
-	width:70%;
+	height:100%;
+	width:100%;
 }
