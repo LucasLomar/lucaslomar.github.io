@@ -106,11 +106,21 @@ body{
 }
 
 .tabDesc{
-	position:relative;
-	paddind-left: 50%;
-	paddind-right: 50%;
-	padding-bottom: 5%;
-	padding-top: 5%;
+	position: relative;
+    	padding-left: 5%;
+    	padding-right: 5%;
+   	padding-bottom: 5%;
+    	padding-top: 5%;
+}
+
+.fotocapa{
+	padding-top:0%;
+	padding-bottom:0%;	
+}
+
+.detalhes{
+	padding-top:0%;
+	padding-bottom:0%;
 }
 
 .fotocapa img{
