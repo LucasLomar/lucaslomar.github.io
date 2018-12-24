@@ -114,10 +114,6 @@ body{
 	padding-bottom:0%;
 }
 
-.fotocapa{
-	padding-right:0%;
-}
-
 .detalhes{
 	padding-left:0%;
 }
@@ -125,27 +121,6 @@ body{
 
 /*CONFIGURACOES DAS FOTOS DA PAGINA*/
 
-/*
-.fotocapa img{
-	padding-left:0%;
-	padding-right:0%;
-	padding-top:0%;
-	padding-bottom:0%;	
-}
-
-
-.detalhes img{
-	
-	padding-left:0%;
-	padding-right:0%;
-	padding-top:0%;
-	padding-bottom:0%;}
-*/
-	
-.fotocapa img{
-	height:70%;
-	width:70%;
-}
 .detalhes img{
 	height:100%;
 	width:100%;
