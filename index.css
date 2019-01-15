@@ -41,7 +41,7 @@ body{
 	
 	padding-top:1%;
 	padding-right:5%;
-	padding-left:50%;
+	padding-left:25%;
 	padding-bottom:1%;
 	
 	border-bottom-style:solid;
@@ -56,11 +56,11 @@ body{
 }
 
 .botao{
-	padding-left:10%;
-	padding-rigth:10%;
+	padding-left:15%;
+	padding-rigth:15%;
 	
 	font-family:Impact;
-	font-size:20px;
+	font-size:12;
 	color:white;
 	
 	border-style:solid;
