@@ -63,6 +63,8 @@ body{
 }
 
 .imgbotao{
+	border-style:solid;
+	
 	padding-top:0%;
 	padding-bottom:0%;
 }
