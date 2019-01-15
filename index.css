@@ -39,10 +39,10 @@ body{
 .tabmenu{		/* BARRA DE NAVEGACAO*/
 	position:relative;
 	
-	padding-top:3%;
+	padding-top:2%;
 	padding-right:5%;
 	padding-left:20%;
-	padding-bottom:3%;
+	padding-bottom:2%;
 	
 	border-bottom-style:solid;
 	border-top-style:solid;
@@ -60,11 +60,11 @@ body{
 .botao{
 	padding-left:10%;
 	padding-rigth:10%;
+	
+	border-style:solid;
 }
 
 .imgbotao{
-	border-style:solid;
-	
 	padding-top:0%;
 	padding-bottom:0%;
 }
