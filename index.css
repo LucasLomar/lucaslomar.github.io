@@ -56,13 +56,10 @@ body{
 }
 
 .botao{
-	position:relative;
-	
-	
 	list-style:none;
 	
 	font-family:Impact;
-	font-size:12;
+	font-size:20px;
 	color:white;
 }
 
