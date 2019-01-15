@@ -39,10 +39,10 @@ body{
 .tabmenu{		/* BARRA DE NAVEGACAO*/
 	position:relative;
 	
-	padding-top:0%;
+	padding-top:3%;
 	padding-right:5%;
 	padding-left:20%;
-	padding-bottom:0%;
+	padding-bottom:3%;
 	
 	border-bottom-style:solid;
 	border-top-style:solid;
@@ -55,6 +55,11 @@ body{
 	font-family:Impact;
 	font-size:20px;
 	color:white;
+}
+
+.botao{
+	padding-left:5%;
+	padding-rigth:5%;
 }
 
 .imgbotao{
