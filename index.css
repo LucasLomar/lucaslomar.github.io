@@ -52,14 +52,16 @@ body{
 	border-bottom-color:black;
 	border-top-color:black;
 	
-	font-family:Impact;
-	font-size:20px;
-	color:white;
+	
 }
 
 .botao{
 	padding-left:10%;
 	padding-rigth:10%;
+	
+	font-family:Impact;
+	font-size:20px;
+	color:white;
 	
 	border-style:solid;
 }
